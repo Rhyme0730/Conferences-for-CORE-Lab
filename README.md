@@ -24,3 +24,10 @@
 |NeurIPS 2026|Dec 6-12, 2026|Sydney, Australia|May 4, 2026|[🔗](https://neurips.cc/Conferences/FutureMeetings)| May 6, 2026 for full paper
 |AAAI 2027|Feb 16-23, 2027|Montréal, Québec, Canada|TBA|[🔗](https://aaai.org/conference/aaai/)|
 |ICLR 2027|Aug 30-31, 2027|Sydney, Australia|TBA|
+
+## Others
+
+| Conference | When | Where | Deadline | Homepage | Note |
+|:----|:----|:----|:----|:----:|:----|
+|DCL Symposium 2026|April 24, 2026|TSRB auditorium, Georgia Tech|TBA|[🔗](https://dcl.gatech.edu/events/symposium-2026/)|
+
