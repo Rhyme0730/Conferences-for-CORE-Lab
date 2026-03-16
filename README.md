@@ -21,6 +21,6 @@
 
 | Conference | When | Where | Deadline | Homepage | Note |
 |:----|:----|:----|:----|:----:|:----|
-|NeurIPS 2026|Dec 6-12, 2026|Sydney, Australia|May 4, 2026 |[🔗](https://neurips.cc/)| May 6, 2026 for full paper
+|NeurIPS 2026|Dec 6-12, 2026|Sydney, Australia|May 4, 2026 |[🔗](https://neurips.cc/Conferences/FutureMeetings)| May 6, 2026 for full paper
 |AAAI 2027|Feb 16-23, 2027|Montréal, Québec, Canada|TBA|[🔗](https://aaai.org/conference/aaai/)|
 |ICLR 2027|August 30-31, 2027|Sydney, Australia|TBA|
